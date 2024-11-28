@@ -11,6 +11,7 @@ public class Application {
 		int j = 20;
 		SpringApplication.run(Application.class, args);
 	System.out.prinln(i);
+	Sytem.out.printn(j);
 	}
 
 }
