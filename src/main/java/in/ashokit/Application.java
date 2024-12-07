@@ -13,5 +13,12 @@ public class Application {
 	System.out.prinln(i);
 	Sytem.out.printn(j);
 	}
+	
+	
+	// bug fixed
+	
+	public void m2(){
+		
+	}
 
 }
